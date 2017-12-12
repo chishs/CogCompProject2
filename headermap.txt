@@ -1,0 +1,54 @@
+SEQN    Respondent sequence number 7 9
+DIQ010  Doctor told you have diabetes 777 999
+DID040  Age when first told you had diabetes 7 9
+DIQ160  Ever told you have prediabetes 7 9
+DIQ170  Ever told have health risk for diabetes 7 9
+DIQ172  Feel could be at risk for diabetes      7 9        
+DIQ175A Family history                        77 99
+DIQ175B Overweight                               _ _       
+DIQ175C Age                           _ _
+DIQ175D Poor diet    _ _
+DIQ175E Race                          _ _
+DIQ175F Had a baby weighed over 9 lbs. at birth  _ _ 
+DIQ175G Lack of physical activity     _ _
+DIQ175H High blood pressure                      _ _ 
+DIQ175I High blood sugar                         _ _   
+DIQ175J High cholesterol                         _ _       
+DIQ175K Hypoglycemic                             _ _       
+DIQ175L Extreme hunger                          _ _
+DIQ175M Tingling/numbness in hands or feet       _ _       
+DIQ175N Blurred vision                         _ _
+DIQ175O Increased fatigue                        _ _       
+DIQ175P Anyone could be at risk                  _ _      
+DIQ175Q Doctor warning       _ _
+DIQ175R Other, specify                            _ _
+DIQ175S Gestational diabetes                      _ _ 
+DIQ175T Frequent urination                       _ _       
+DIQ175U Thirst                          _ _
+DIQ175V Craving for sweet/eating a lot of sugar  _ _      
+DIQ175W Medication                               _ _    
+DIQ175X Polycystic ovarian syndrome              _ _       
+DIQ180  Had blood tested past three years        7 9       
+DIQ050  Taking insulin now                         7 9    
+DID060  How long taking insulin                      777 999
+DIQ060U Unit of measure (month/year)                   _ _
+DIQ070  Take diabetic pills to lower blood sugar       7 9 
+DIQ230  How long ago saw a diabetes specialist        7 9 
+DIQ240  Is there one Dr you see for diabetes      7 9
+DID250  Past year how many times seen doctor         7777 9999   
+DID260  How often check blood for glucose/sugar        777 999
+DIQ260U Unit of measure (day/week/month/year)        _ _
+DIQ275  Past year Dr checked for A1C                7 9
+DIQ280  What was your last A1C level                777 999
+DIQ291  What does Dr say A1C should be            77 99
+DIQ300S What was your recent SBP            7777 9999
+DIQ300D What was your recent DBP                     7777 9999   
+DID310S What does Dr say SBP should be      7777 9999          
+DID310D What does Dr say DBP should be              7777 9999  
+DID320  What was most recent LDL number                 7777 9999
+DID330  What does Dr say LDL should be                7777 9999 
+DID341  Past year times Dr check feet for sores       7777 9999
+DID350  How often do you check your feet               7777 9999 
+DIQ350U Unit of measure (day/week/month/year)          _ _
+DIQ360  Last time had pupils dilated for exam           7 9
+DIQ080  Diabetes affected eyes/had retinopathy         7 9
