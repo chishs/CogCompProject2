@@ -1,0 +1,16 @@
+-----------
+*TODO List*
+-----------
+1.) Implement SGD to perform logistic regression (Assume multi-variate normal distribution)
+
+2.) Split data into 70% training / 30% testing
+
+3.) Clean up the data (make the class the last column)
+
+4.) Look up log odds ratio and implement
+
+5.) If time permits:
+    - Try soft EM clustering approach
+    - Try this with other diseases
+
+6.) Structure code better for easy integration with rest of project
